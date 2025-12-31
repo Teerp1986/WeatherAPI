@@ -1,0 +1,6 @@
+City,Temperature (F),Condition,Humidity,Wind Speed
+Louisville,39.0,"{'text': 'Overcast', 'icon': '//cdn.weatherapi.com/weather/64x64/day/122.png', 'code': 1009}",59,8.9
+New York,30.9,"{'text': 'Overcast', 'icon': '//cdn.weatherapi.com/weather/64x64/day/122.png', 'code': 1009}",47,13.4
+Honolulu,75.2,"{'text': 'Light rain', 'icon': '//cdn.weatherapi.com/weather/64x64/day/296.png', 'code': 1183}",74,18.3
+Chicago,35.1,"{'text': 'Overcast', 'icon': '//cdn.weatherapi.com/weather/64x64/day/122.png', 'code': 1009}",82,13.6
+Miami,63.0,"{'text': 'Sunny', 'icon': '//cdn.weatherapi.com/weather/64x64/day/113.png', 'code': 1000}",34,10.7
